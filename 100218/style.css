@@ -32,3 +32,21 @@ h2 {
 h3, h4, h5, h6 {
     color: #b3b3b3;
 }
+
+
+.super-low{
+    color:steelblue;
+}
+.low{
+    color:rgb(140, 153, 163);
+    }
+.correct{
+    color:green;
+}
+.high{
+    color:rgb(218, 163, 163);
+
+}
+.super-high{
+    color:rgb(180, 70, 70);
+}
